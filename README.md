@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samxn&label=Profile%20views&color=0e75b6&style=flat" alt="samxn" /> </p>
 
-- 👩🏻‍💻 All of my projects are available at [https://github.com/samxn?tab=repositories](https://github.com/samxn?tab=repositories)
+- 👩🏻‍💻 All of my projects are available at <a href="https://github.com/samxn?tab=repositories" target="blank">Projects</a>
 
-- 💻 Know about my experiences [https://samindizna.com/](https://samindizna.com/)
+- 💻 Know about my experiences <a href="https://samindizna.com/" target="blank">Samindizna.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
