@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Samin Dizna</h1>
+<h3 align="center">A passionate frontend developer from Atlanta, GA, USA</h3>
+<img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-<!--
-**samxn/samxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samxn&label=Profile%20views&color=0e75b6&style=flat" alt="samxn" /> </p>
 
-Here are some ideas to get you started:
+- 👩🏻‍💻 All of my projects are available at [https://github.com/samxn?tab=repositories](https://github.com/samxn?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Know about my experiences [https://samindizna.com/](https://samindizna.com/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/samindiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samindiz" height="30" width="40" /></a>
+</p>
+<hr />
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samxn&show_icons=true&locale=en&layout=compact" alt="samxn" /></p> 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samxn&show_icons=true&locale=en" alt="samxn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samxn&" alt="samxn" /></p>
