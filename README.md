@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Atlanta, GA, USA</h3>
 <img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samxn&label=Profile%20views&color=0e75b6&style=flat" alt="samxn" /> </p>
+<p align="left"> <img src="https://lottie.host/?file=99183cf0-4295-46f3-82b9-f806c3acf9f9/T6LTUtZFUl.json" alt="samxn" /> </p>
 
 - 👩🏻‍💻 All of my projects are available at <a href="https://github.com/samxn?tab=repositories" target="_blank">Projects</a>
 
