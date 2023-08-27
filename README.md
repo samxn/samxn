@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Samin Dizna</h1>
 <h3 align="center">A passionate frontend developer from Atlanta, GA, USA</h3>
-<img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="code" width="400" src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samxn&label=Profile%20views&color=0e75b6&style=flat" alt="samxn" /> </p>
 
